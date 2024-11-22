@@ -1,1 +1,1 @@
-const dehiwalaWeatherData = {"temp": 29.6, "humidity": 68, "description": "scattered clouds", "updatedAt": 1732259863};
+const dehiwalaWeatherData = {"temp": 28.98, "humidity": 72, "description": "broken clouds", "updatedAt": 1732260652};
