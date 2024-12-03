@@ -1,1 +1,1 @@
-const dehiwalaWeatherData = {"temp": 28.76, "humidity": 66, "description": "broken clouds", "updatedAt": 1733206934};
+const dehiwalaWeatherData = {"error": "Data not found"};
